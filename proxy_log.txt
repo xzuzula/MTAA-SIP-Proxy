@@ -1,0 +1,62 @@
+Sat, 26 Feb 2022 17:03:34 : Pouzivatel pc@192.168.1.21 vola ntb@192.168.1.21
+Sat, 26 Feb 2022 17:03:38 : ACK
+Sat, 26 Feb 2022 17:03:46 : Pouzivatel ntb@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:03:49 : ACK
+Sat, 26 Feb 2022 17:03:49 : ACK
+Sat, 26 Feb 2022 17:04:06 : Hovor ukoncil ntb@192.168.1.21
+Sat, 26 Feb 2022 17:04:19 : Pouzivatel pc@192.168.1.21 vola ntb@192.168.1.21
+Sat, 26 Feb 2022 17:04:25 : ACK
+Sat, 26 Feb 2022 17:04:28 : Hovor ukoncil pc@192.168.1.21
+Sat, 26 Feb 2022 17:04:44 : Pouzivatel ntb@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:04:49 : ACK
+Sat, 26 Feb 2022 17:04:49 : ACK
+Sat, 26 Feb 2022 17:04:54 : Hovor ukoncil ntb@192.168.1.21
+Sat, 26 Feb 2022 17:05:00 : Pouzivatel ntb@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:05:05 : Hovor neprijaty
+Sat, 26 Feb 2022 17:05:05 : ACK
+Sat, 26 Feb 2022 17:05:14 : Pouzivatel ntb@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:05:18 : ACK
+Sat, 26 Feb 2022 17:05:18 : ACK
+Sat, 26 Feb 2022 17:05:54 : Hovor ukoncil ntb@192.168.1.21
+Sat, 26 Feb 2022 17:11:13 : Pouzivatel mobil@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:11:21 : ACK
+Sat, 26 Feb 2022 17:11:21 : ACK
+Sat, 26 Feb 2022 17:11:59 : Hovor ukoncil mobil@192.168.1.21
+Sat, 26 Feb 2022 17:14:41 : Pouzivatel mobil@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:14:49 : Hovor neprijaty
+Sat, 26 Feb 2022 17:14:49 : ACK
+Sat, 26 Feb 2022 17:18:36 : Pouzivatel pc@192.168.1.21 vola mobil@192.168.1.21
+Sat, 26 Feb 2022 17:18:36 : Pouzivatel pc@192.168.1.21 vola ntb@192.168.1.21
+Sat, 26 Feb 2022 17:18:40 : ACK
+Sat, 26 Feb 2022 17:18:44 : ACK
+Sat, 26 Feb 2022 17:19:01 : Hovor ukoncil mobil@192.168.1.21
+Sat, 26 Feb 2022 17:19:06 : Hovor ukoncil pc@192.168.1.21
+Sat, 26 Feb 2022 17:22:11 : Pouzivatel pc@192.168.1.21 vola mobil@192.168.1.21
+Sat, 26 Feb 2022 17:22:15 : ACK
+Sat, 26 Feb 2022 17:22:28 : Hovor ukoncil pc@192.168.1.21
+Sat, 26 Feb 2022 17:22:28 : Pouzivatel mobil@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:22:28 : Pouzivatel mobil@192.168.1.21 vola ntb@192.168.1.21
+Sat, 26 Feb 2022 17:22:29 : ACK
+Sat, 26 Feb 2022 17:22:34 : ACK
+Sat, 26 Feb 2022 17:22:46 : Hovor ukoncil ntb@192.168.1.21
+Sat, 26 Feb 2022 17:22:58 : Pouzivatel mobil@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:22:58 : ACK
+Sat, 26 Feb 2022 17:23:04 : Hovor ukoncil mobil@192.168.1.21
+Sat, 26 Feb 2022 17:24:38 : Pouzivatel ntb@192.168.1.21 vola mobil@192.168.1.21
+Sat, 26 Feb 2022 17:24:42 : ACK
+Sat, 26 Feb 2022 17:24:42 : ACK
+Sat, 26 Feb 2022 17:24:47 : Pouzivatel ntb@192.168.1.21 vola mobil@192.168.1.21
+Sat, 26 Feb 2022 17:24:50 : ACK
+Sat, 26 Feb 2022 17:24:57 : Hovor ukoncil ntb@192.168.1.21
+Sat, 26 Feb 2022 17:26:48 : Pouzivatel mobil@192.168.1.21 vola pc@192.168.1.21
+Sat, 26 Feb 2022 17:26:55 : Hovor neprijaty
+Sat, 26 Feb 2022 17:26:55 : ACK
+Sat, 26 Feb 2022 17:27:06 : Pouzivatel pc@192.168.1.21 vola mobil@192.168.1.21
+Sat, 26 Feb 2022 17:27:12 : Hovor neprijaty
+Sat, 26 Feb 2022 17:27:12 : ACK
+Sat, 26 Feb 2022 17:27:26 : Pouzivatel mobil@192.168.1.21 vola ntb@192.168.1.21
+Sat, 26 Feb 2022 17:27:31 : Hovor neprijaty
+Sat, 26 Feb 2022 17:27:31 : ACK
+Sat, 26 Feb 2022 17:27:45 : Pouzivatel ntb@192.168.1.21 vola mobil@192.168.1.21
+Sat, 26 Feb 2022 17:27:48 : Hovor neprijaty
+Sat, 26 Feb 2022 17:27:48 : ACK
