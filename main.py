@@ -3,11 +3,13 @@ import socket, SocketServer
 
 HOST, PORT = '0.0.0.0', 5060
 
-#Arg host, port
 if __name__ == "__main__":
 	hostname = socket.gethostname()
 	ipaddress = socket.gethostbyname(hostname)
 	proxyna = sipfullproxy.UDPHandler
+	ip_pc = raw_input("Proxy PC IP address (default: %s): " % ipaddress)
+	if ip_pc != "":
+		ipaddress = ip_pc
 	proxyna.recordroute = "Record-Route: <sip:%s:%d;lr>" % (ipaddress,PORT)
 	proxyna.topvia = "Via: SIP/2.0/UDP %s:%d" % (ipaddress,PORT)
 	proxyna.enable_logging = True
